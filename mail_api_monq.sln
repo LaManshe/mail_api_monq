@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_api_monq", "mail_api_monq\mail_api_monq.csproj", "{259E1F12-E0AA-4E9A-B05C-66EF7C3B2014}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_api_monq.DAL", "mail_api_monq.DAL\mail_api_monq.DAL.csproj", "{C1D34B75-5C8E-4CA5-B6C2-9720C162A420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mail_api_monq.Interfaces", "mail_api_monq.Interfaces\mail_api_monq.Interfaces.csproj", "{D851F15C-59A3-48E1-BDD3-414CB0BF62B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259E1F12-E0AA-4E9A-B05C-66EF7C3B2014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259E1F12-E0AA-4E9A-B05C-66EF7C3B2014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259E1F12-E0AA-4E9A-B05C-66EF7C3B2014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259E1F12-E0AA-4E9A-B05C-66EF7C3B2014}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D34B75-5C8E-4CA5-B6C2-9720C162A420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D34B75-5C8E-4CA5-B6C2-9720C162A420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D34B75-5C8E-4CA5-B6C2-9720C162A420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D34B75-5C8E-4CA5-B6C2-9720C162A420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D851F15C-59A3-48E1-BDD3-414CB0BF62B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D851F15C-59A3-48E1-BDD3-414CB0BF62B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D851F15C-59A3-48E1-BDD3-414CB0BF62B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D851F15C-59A3-48E1-BDD3-414CB0BF62B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D3CB30D-3315-4EDE-8817-519E115893AF}
+	EndGlobalSection
+EndGlobal
